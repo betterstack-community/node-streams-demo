@@ -16,19 +16,7 @@ Make sure you have a recent version of Node.js and NPM installed on your machine
 git clone https://github.com/betterstack-community/node-streams-demo
 ```
 
-- `cd` into the project directory and execute the `node-streams.js` script:
-
-```bash
-node node-streams
-```
-
-You can also execute the `web-streams.js` script, which uses the Web Streams API:
-
-```bash
-node web-streams.js
-```
-
-**Note**: To execute the `read-files.js` script, make sure you run the `node-streams.js` or `web-streams.js` file first to create the `customer.log` file, which the script will read.
+- `cd` into the project directory.
 
 ## ⚖ License
 
