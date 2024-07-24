@@ -1,0 +1,16 @@
+{
+  "name": "streams-demo",
+  "version": "1.0.0",
+  "description": "Description of the project.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Better Stack Team",
+  "license": "Apache License, Version 2.0",
+  "dependencies": {
+    "sqlite3": "^5.1.7"
+  }
+}
